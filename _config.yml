@@ -1,21 +1,21 @@
+baseurl: /my-blog
+# name: "Hc个人博客"
+# title: 少壮轻年月，迟暮重光阴
 
-name: "Hc个人博客"
-title: 少壮轻年月，迟暮重光阴
+# email: he-128@163.com
+# github_username:  hechao17
 
-email: he-128@163.com
-github_username:  hechao17
-
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-author: "Hc"
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# author: "Hc"
 
 
 
-# Build settings
-markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
+# # Build settings
+# markdown: kramdown
+# theme: minima
+# plugins:
+#   - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
